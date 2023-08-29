@@ -4,8 +4,6 @@
 
 ![xlcbingo1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlcbingo1999&show_icons=true)
 
-![xlcbingo1999's github activity graph](https://activity-graph.herokuapp.com/graph?username=xlcbingo1999)
-
 
 <!--
 **xlcbingo1999/xlcbingo1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
