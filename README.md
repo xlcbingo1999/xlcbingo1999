@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Sun Yat-sen University.
+- 🌱 ![My CV](https://xlcbingo1999.github.io/assets/pdf/Linchang_Xiao.pdf)
 
 ![xlcbingo1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlcbingo1999&show_icons=true)
 
